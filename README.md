@@ -2,6 +2,7 @@
 Github repository: https://github.com/McGill-AI-Lab/news-bias-w2v
 
 <video src="https://videos.pexels.com/video-files/3195398/3195398-hd_1920_1080_25fps.mp4"></video>
+<video src="https://www.youtube.com/embed/dQw4w9WgXcQ"></video>
 
 ### Data
 From https://huggingface.co/datasets/stanford-oval/ccnews, we downloaded all of the parquet files for 2024. 
