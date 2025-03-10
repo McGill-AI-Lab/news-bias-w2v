@@ -1,5 +1,8 @@
 # News Bias Using Word Embeddings
 Github repository: https://github.com/McGill-AI-Lab/news-bias-w2v
+
+::youtube{v=-_Kd9oeDqpM}
+
 ### Data
 From https://huggingface.co/datasets/stanford-oval/ccnews, we downloaded all of the parquet files for 2024. 
 In parquet2csv.ipynb:
